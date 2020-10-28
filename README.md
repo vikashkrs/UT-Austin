@@ -6,7 +6,10 @@ Project 1 : MovieLens Prject (Data Exploratory and Data Analysis)
  - Skills and Tools : Pandas, NumPy, Visualisation techniques, EDA
  - Data set details and project overview is provided in MovieLens Project.ipynb file
  
-Project 2 : Supervised Learning Project
+Project 2 : Loans Campaign Target Prediction(Used Logistic Regression)
+ - Skills and Tools
+   Logistic Regression, Classification, Exploratory Data Analysis
+   
  - Project: Problem Statement - Personal Loan Campaign Modelling
  - Thera Bank Personal Loan Campaign
  

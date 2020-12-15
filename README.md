@@ -7,11 +7,10 @@ Project 1 : MovieLens Project (Data Exploratory and Data Analysis)
  - Data set details and project overview is provided in MovieLens Project.ipynb file
  
 Project 2 : Loans Campaign Target Prediction
- - Skills and Tools : Logistic Regression, Classification, Exploratory Data Analysis
-   
- - Project: Problem Statement - Personal Loan Campaign Modelling
- - Thera Bank Personal Loan Campaign
- 
+
+ -	Built a Logistic Regression model to help Thera Bank understand what levers it can pull to improve the conversion of its liability customers to personal loan accounts, while maintaining depositor retention.
+ -	Derived important insights around the tradeoff between model accuracy and interpretability, comparing performance metrics like accuracy, precision and recall, to determine which KPIs makes most sense for this specific use case.
+
 Data Description:
 - The dataset contains data on 5000 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage,securities account, etc.), and the customer response to the last personal loan campaign (Personal Loan). Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that was offered to them in the earlier campaign.
  

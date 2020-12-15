@@ -6,7 +6,7 @@ Project 1 : MovieLens Project (Data Exploratory and Data Analysis)
  - Skills and Tools : Pandas, NumPy, Visualisation techniques, EDA
  - Data set details and project overview is provided in MovieLens Project.ipynb file
  
-Project 2 : Loans Campaign Target Prediction(Used Logistic Regression)
+Project 2 : Loans Campaign Target Prediction
  - Skills and Tools : Logistic Regression, Classification, Exploratory Data Analysis
    
  - Project: Problem Statement - Personal Loan Campaign Modelling
@@ -36,5 +36,11 @@ Attribute Information:
 - Online: Does the customer use internet banking facilities?
 - Credit card: Does the customer use a credit card issued by the bank?
 
+Project 3 : Term Deposit Subscription Prediction
+Goal: 
+Using the data collected from existing customers, build a model that will help the marketing team identify potential customers who are relatively more likely to subscribe term deposit and thus increase their hit ratio.
+
+-	Performed Exploratory Data Analysis (EDA) to help an anonymized marketing company identify potential customers who are more likely to subscribe to term deposit.
+-	Implemented different combinations of hyperparameters across simple linear models, decision trees, random forests, and gradient-boosted models.
 
 
